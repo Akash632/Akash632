@@ -2,9 +2,9 @@
 
 <h1 style="text-align:center">Hello Everyone</h1>
 
-<a href="https://www.instagram.com/thepiyushmalhotra/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a>
+<div style="text-align: center">
+  <img src="https://i.ibb.co/Gvj2rRc/view-3d-boy-using-laptop-23-2150709886-removebg-preview.png"/>
+</div>
 <!--
 **Akash632/Akash632** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
