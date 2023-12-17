@@ -2,7 +2,7 @@
 
 <h1 style="text-align:center">Hello Everyone</h1>
 
-<div style="text-align: center">
+<div style="text-align: center, margin-left: 50px">
   <img src="https://i.ibb.co/Gvj2rRc/view-3d-boy-using-laptop-23-2150709886-removebg-preview.png"/>
 </div>
 <!--
