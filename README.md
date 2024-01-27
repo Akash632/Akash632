@@ -40,11 +40,14 @@ I am a Mern Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </div>
 
 <hr/>
+<div style="display: flex">
+  
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Akash632&theme=dark&background=000000)](https://git.io/streak-stats)
+  ![Github stats](https://github-readme-stats.vercel.app/api?username=Akash632&theme=highcontrast&show_icons=true&count_private=true)
+</div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Akash632&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash632)](https://github.com/anuraghazra/github-readme-stats)
 
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=Akash632&theme=highcontrast&show_icons=true&count_private=true)
 <!--
 // README.md
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Akash632&theme=highcontrast&show_icons=true&count_private=true)
