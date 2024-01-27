@@ -11,7 +11,7 @@
  </h1>
 </div>
 <!-- :hammer_and_wrench: Languages and Tools : -->
-<div style="margin-bottom = 10px">
+<div style="margin-bottom = 5px">
   <h3>Technologies and Tools</h3>
 </div>
 <br/>
