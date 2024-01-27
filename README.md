@@ -39,6 +39,11 @@ I am a Mern Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" **alt="Git" width="50" height="50"/>&nbsp;
 </div>
 
+<hr/>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Akash632&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Akash632&theme=highcontrast&show_icons=true&count_private=true)
 <!--
 // README.md
