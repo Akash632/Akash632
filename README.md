@@ -6,7 +6,7 @@
   </a>
 </div>
 </div>
-<div align="center">
+<div align="center" style="margin-bottom: 10">
    <h1>Hey there !!</h1>
 </div>
 <hr/>
