@@ -2,7 +2,8 @@
 
 <h1 style="text-align:center">Hello Everyone</h1>
 
-https://github-readme-stats.vercel.app/api?username=Akash632&theme=highcontrast&show_icons=true&count_private=true
+// README.md
+![Github stats](https://github-readme-stats.vercel.app/api?username=Akash632&theme=highcontrast&show_icons=true&count_private=true)
 <!--
 **Akash632/Akash632** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
