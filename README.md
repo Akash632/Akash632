@@ -38,6 +38,8 @@ I am a Mern Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="Mongodb"  alt="MySQL" width="50" height="50"/>&nbsp;&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" **alt="Git" width="50" height="50"/>&nbsp;
 </div>
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=Akash632&theme=highcontrast&show_icons=true&count_private=true)
 <!--
 // README.md
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Akash632&theme=highcontrast&show_icons=true&count_private=true)
