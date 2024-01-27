@@ -22,6 +22,7 @@ I am a Mern Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Akash-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/akashnagineni/)
+
 <hr/>
 <div>
   <h3>Technologies and Tools:</h3>
@@ -41,6 +42,9 @@ I am a Mern Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </div>
 
 <hr/>
+
+:fire: My Stats :
+
 <div style="display: flex, justify-content:start, align-items:start">
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash632&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
