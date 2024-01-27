@@ -43,7 +43,7 @@ I am a Mern Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <hr/>
 
-<h3>My Stats</h3>
+<h3>&#9889;My Stats</h3>
 
 <div style="display: flex, justify-content:start, align-items:start">
   
