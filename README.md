@@ -12,7 +12,7 @@
 </div>
 <!-- :hammer_and_wrench: Languages and Tools : -->
 <div>
-  <h3 style="text-decoration:underline">Technologies and Tools</h3>
+  <h3>Technologies and Tools:</h3>
 </div>
 <br/>
 <div>
