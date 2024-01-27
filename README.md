@@ -10,8 +10,8 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
  </h1>
 </div>
-👨‍💻: About Me :
 
+<h3>About Me</h3>
 
 I am a Mern Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
@@ -43,7 +43,7 @@ I am a Mern Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <hr/>
 
-:fire: My Stats :
+:fire: <h3>My Stats</h3>
 
 <div style="display: flex, justify-content:start, align-items:start">
   
