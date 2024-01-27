@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div align="center">
   <img src="https://media.giphy.com/media/SUcApSWjPwQMARvcM8/giphy.gif" width="100"/>
   <div id="badges">
   <a href="https://www.linkedin.com/in/akashnagineni/" target="_blank">
