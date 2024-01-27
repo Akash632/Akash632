@@ -43,11 +43,11 @@ I am a Mern Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <hr/>
 <div style="display: flex">
   
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash632&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Akash632&theme=dark&background=000000)](https://git.io/streak-stats)&nbsp;&nbsp;&nbsp;
   ![Github stats](https://github-readme-stats.vercel.app/api?username=Akash632&theme=highcontrast&show_icons=true&count_private=true)
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash632&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
